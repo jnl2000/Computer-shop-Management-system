@@ -1,0 +1,16 @@
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe.config
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.exe
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\bin\Debug\Computer Shop Management System.pdb
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csprojAssemblyReference.cache
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.My.FormLogin.resources
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.Properties.Resources.resources
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.GenerateResource.cache
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.exe
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer Shop Management System.pdb
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.My.FormMain.resources
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.My.FormInquiry.resources
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.My.FormItem.resources
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.My.FormMonthlyReport.resources
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.My.FormOrder.resources
+C:\Users\Nipun Lakshan\source\repos\Computer Shop Management System\Computer Shop Management System\obj\Debug\Computer_Shop_Management_System.My.FormStaffManagement.resources
